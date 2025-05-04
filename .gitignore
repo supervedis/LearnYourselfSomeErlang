@@ -1,0 +1,4 @@
+#ignore everything
+chpt*/*
+#unignore these specific files
+!chpt*/*.erl
